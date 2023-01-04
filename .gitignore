@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# torch debug file
+*_debug/
+
 # C extensions
 *.so
 
